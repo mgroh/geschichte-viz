@@ -1,7 +1,7 @@
 # Liste der regulären Episoden von Geschichte aus der Geschichte, und auf welche andere Episode sie verweisen.
 # Ein­fach­heits­hal­ber werden nur die Episodennummern verwendet, 370 meint also GAG370, usw.
 
-370 = []
+370 = [ 361, 367, 189, 333, 289, 303 ]
 369 = []
 368 = []
 367 = []
