@@ -42,8 +42,9 @@ def parse_rss_to_dict(rss):
 
 def main():
     rss = load_rss()
-    d = parse_rss_to_dict(rss)
-    print(d)
+    all_episodes = parse_rss_to_dict(rss)
+    gag_episodes = [x for x in all_episodes if x['id'].startswith('GAG')]
+    print(gag_episodes)
 
 
 if __name__ == '__main__':
