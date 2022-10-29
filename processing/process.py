@@ -2,11 +2,13 @@ import requests
 import xml.etree.ElementTree as ET
 from dateutil.parser import *
 from typing import TypedDict, List
-
+import json
 import tomllib
+
 
 RSS_URL = 'https://www.geschichte.fm/feed/mp3/'
 REFERENCES_FILE = '../data/references.toml'
+JSON_FILE = '../data/geschichte.json'
 
 
 class Episode(TypedDict):
@@ -53,13 +55,18 @@ def enrich_episode_with_references(episode, all_references):
     return episode
 
 
+def write_json(episodes):
+    with open(JSON_FILE, 'w', encoding='utf8') as f:
+        json.dump(episodes, f, ensure_ascii=False, indent=4)
+
+
 def main():
     rss = load_rss()
     all_episodes = parse_rss_to_dict(rss)
     gag_episodes = [x for x in all_episodes if x['id'].startswith('GAG')]
     references = load_references_toml()
     gag_episodes_with_references = [enrich_episode_with_references(e, references) for e in gag_episodes]
-    print(gag_episodes_with_references)
+    write_json(gag_episodes_with_references)
 
 
 if __name__ == '__main__':
