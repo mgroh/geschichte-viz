@@ -1,0 +1,2229 @@
+[
+    {
+        "id": "GAG370",
+        "title": "Der Kodex des Archimedes",
+        "release_date": "2022-10-26",
+        "referenced_episodes": [
+            "GAG361",
+            "GAG367",
+            "GAG189",
+            "GAG333",
+            "GAG289",
+            "GAG303"
+        ]
+    },
+    {
+        "id": "GAG369",
+        "title": "Der Struwwelpeter",
+        "release_date": "2022-10-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG368",
+        "title": "Wie das Jod ins Salz kam",
+        "release_date": "2022-10-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG367",
+        "title": "Untergang und Comeback der VASA",
+        "release_date": "2022-10-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG366",
+        "title": "Das Attentat von Anagni",
+        "release_date": "2022-09-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG365",
+        "title": "The Ghost Army",
+        "release_date": "2022-09-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG364",
+        "title": "Mord und Madrigale – Carlo Gesualdo",
+        "release_date": "2022-09-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG363",
+        "title": "Duke Kahanamoku",
+        "release_date": "2022-09-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG362",
+        "title": "Bayerns letzte Kurfürstin",
+        "release_date": "2022-08-31",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG361",
+        "title": "Gustave Trouvé - der vergessene Erfinder",
+        "release_date": "2022-08-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG360",
+        "title": "Unglück am Matterhorn",
+        "release_date": "2022-08-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG359",
+        "title": "Eine kleine Geschichte des Schachspiels",
+        "release_date": "2022-08-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG358",
+        "title": "Philipp Reis und die Erfindung des Telefons",
+        "release_date": "2022-08-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG357",
+        "title": "Mary Kingsley",
+        "release_date": "2022-07-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG356",
+        "title": "Das DeLorean-Drama",
+        "release_date": "2022-07-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG355",
+        "title": "Der Englische Schweiß",
+        "release_date": "2022-07-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG354",
+        "title": "Die Halsbandaffäre",
+        "release_date": "2022-07-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG353",
+        "title": "Wallada",
+        "release_date": "2022-06-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG352",
+        "title": "Wallace und das Rennen um die Evolutionstheorie",
+        "release_date": "2022-06-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG351",
+        "title": "Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax",
+        "release_date": "2022-06-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG350",
+        "title": "Der Bauernkrieg und die Revolution von 1525",
+        "release_date": "2022-06-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG349",
+        "title": "Konstantin Phaulkon im Königreich Ayutthaya",
+        "release_date": "2022-06-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG348",
+        "title": "Der Anschlag auf die Mosel",
+        "release_date": "2022-05-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG347",
+        "title": "Adrianopel 378",
+        "release_date": "2022-05-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG346",
+        "title": "Die längste Hängebrücke der Welt",
+        "release_date": "2022-05-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG345",
+        "title": "Suffrajitsu",
+        "release_date": "2022-05-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG344",
+        "title": "Der Artischockenkrieg",
+        "release_date": "2022-04-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG343",
+        "title": "Phoebus und die geplante Obsoleszenz",
+        "release_date": "2022-04-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG342",
+        "title": "Das Stockholmer Blutbad",
+        "release_date": "2022-04-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG341",
+        "title": "Der Exorzismus der Marthe Brossier",
+        "release_date": "2022-04-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG340",
+        "title": "Tauben, die Raketen steuern und Kybernetik",
+        "release_date": "2022-03-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG339",
+        "title": "Der Vocoder",
+        "release_date": "2022-03-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG338",
+        "title": "Eine neue Gesellschaft – Frühsozialist Robert Owen",
+        "release_date": "2022-03-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG337",
+        "title": "Über Hummer, Kaviar und wie das Loch in den Donut kam",
+        "release_date": "2022-03-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG336",
+        "title": "George Smith und die Entdeckung des Gilgamesch-Epos",
+        "release_date": "2022-03-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG335",
+        "title": "Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts",
+        "release_date": "2022-02-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG334",
+        "title": "Rachel Carson und der stumme Frühling",
+        "release_date": "2022-02-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG333",
+        "title": "Alexandria",
+        "release_date": "2022-02-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG332",
+        "title": "Wie Gregor MacGregor ein Land verkaufte, das es gar nicht gab",
+        "release_date": "2022-02-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG331",
+        "title": "Wie Tetris die Welt eroberte",
+        "release_date": "2022-01-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG330",
+        "title": "Zum Tode verurteilt – Catharina Linck alias Anastasius Lagrantinus Rosenstengel",
+        "release_date": "2022-01-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG329",
+        "title": "Wie der Wolf zum Hund wurde",
+        "release_date": "2022-01-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG328",
+        "title": "P. T. Barnum und die größte Show der Welt",
+        "release_date": "2022-01-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG327",
+        "title": "Das große Geburtenrennen von Toronto",
+        "release_date": "2021-12-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG326",
+        "title": "Ausgestorbene und außergewöhnliche Berufe",
+        "release_date": "2021-12-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG325",
+        "title": "Der Große Smog von 1952",
+        "release_date": "2021-12-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG324",
+        "title": "Mit dem Ballon zum Nordpol – Andrées Polarexpedition von 1897",
+        "release_date": "2021-12-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG323",
+        "title": "Die Republik Ezo und das Ende des Shogunats",
+        "release_date": "2021-12-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG322",
+        "title": "Portugal und der Seeweg nach Indien",
+        "release_date": "2021-11-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG321",
+        "title": "Aufstieg und möglicher Fall der Banane",
+        "release_date": "2021-11-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG320",
+        "title": "In 72 Tagen um die Welt – Journalistin Nellie Bly",
+        "release_date": "2021-11-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG319",
+        "title": "Ashoka der Große",
+        "release_date": "2021-11-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG318",
+        "title": "Der Nuklearunfall von Goiânia",
+        "release_date": "2021-10-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG317",
+        "title": "Roger Tichborne – die wundersame Rückkehr des Sohnes",
+        "release_date": "2021-10-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG316",
+        "title": "Die Shakespeare-Unruhen",
+        "release_date": "2021-10-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG315",
+        "title": "Der Mehlkrieg von 1775",
+        "release_date": "2021-10-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG314",
+        "title": "Eine kurze Geschichte der Cholera",
+        "release_date": "2021-09-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG313",
+        "title": "Die Geschwister Herschel",
+        "release_date": "2021-09-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG312",
+        "title": "Der beste aller Ritter – das Leben von Guillaume le Maréchal",
+        "release_date": "2021-09-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG311",
+        "title": "Der Imjin-Krieg",
+        "release_date": "2021-09-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG310",
+        "title": "Arbeitskampf, Streik und das Leben der Gewerkschaftspionierin Paula Thiede",
+        "release_date": "2021-09-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG309",
+        "title": "Die Bestie des Gévaudan",
+        "release_date": "2021-08-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG308",
+        "title": "Eine kurze Geschichte des Urlaubs und Reisens",
+        "release_date": "2021-08-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG307",
+        "title": "Njinga, Königin von Ndongo und Matamba",
+        "release_date": "2021-08-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG306",
+        "title": "Motoren, Krieg und Inflation – Aufstieg und Fall des Unternehmers Camillo Castiglioni",
+        "release_date": "2021-08-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG305",
+        "title": "Der Piltdown-Mensch",
+        "release_date": "2021-07-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG304",
+        "title": "Der Falschgeldbetrug von Alves dos Reis",
+        "release_date": "2021-07-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG303",
+        "title": "Brunelleschi und die Kathedrale von Florenz",
+        "release_date": "2021-07-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG302",
+        "title": "Sealand und die Gründung einer Mikronation",
+        "release_date": "2021-07-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG301",
+        "title": "Mary Seacole",
+        "release_date": "2021-06-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG300",
+        "title": "Der vorläufige Höhepunkt",
+        "release_date": "2021-06-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG299",
+        "title": "Wie Basketball von James Naismith erfunden wurde",
+        "release_date": "2021-06-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG298",
+        "title": "Die Grüne Fee und der Absinthismus",
+        "release_date": "2021-06-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG297",
+        "title": "Die Revolutionärin und (fast) vergessene Pionierin der Frauenbewegung – Mathilde Franziska Anneke",
+        "release_date": "2021-06-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG296",
+        "title": "Jeanne la Flamme und der bretonische Erbfolgekrieg",
+        "release_date": "2021-05-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG295",
+        "title": "Die Verwandlung des Axolotls",
+        "release_date": "2021-05-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG294",
+        "title": "Erwin Kreuz",
+        "release_date": "2021-05-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG293",
+        "title": "Als in Europa Menschen ausgestellt wurden",
+        "release_date": "2021-05-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG292",
+        "title": "Paul Grüninger",
+        "release_date": "2021-04-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG291",
+        "title": "Ein erfolgreicher Kampf gegen die Kolonialisierung",
+        "release_date": "2021-04-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG290",
+        "title": "Der Angriff der Leichten Brigade",
+        "release_date": "2021-04-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG289",
+        "title": "Ein Kreuzzug, der einen ungeahnten Verlauf nahm",
+        "release_date": "2021-04-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG288",
+        "title": "Der Senat, der über Leichen ging",
+        "release_date": "2021-03-31",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG287",
+        "title": "Eine kurze Geschichte des Ballonfahrens und Fallschirmspringens",
+        "release_date": "2021-03-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG286",
+        "title": "Die verschwundenen Seefrauen Islands",
+        "release_date": "2021-03-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG285",
+        "title": "Joseph Petrosino und die Black Hand",
+        "release_date": "2021-03-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG284",
+        "title": "\"There is death in the pot\" - Friedrich Accum und die Lebensmittelfälscher",
+        "release_date": "2021-03-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG283",
+        "title": "Lola Montez",
+        "release_date": "2021-02-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG282",
+        "title": "Fredegund, Brunhild und der merowingische Bruderkrieg",
+        "release_date": "2021-02-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG281",
+        "title": "Der Putschversuch vom 23. Februar 1981",
+        "release_date": "2021-02-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG280",
+        "title": "Der versunkene Kontinent Lemuria",
+        "release_date": "2021-02-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG279",
+        "title": "Muskat und Manhattan",
+        "release_date": "2021-01-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG278",
+        "title": "Von göttlichen Robotern und feuerspeienden Bullen",
+        "release_date": "2021-01-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG277",
+        "title": "Der Aufstand und Putsch von Wilmington",
+        "release_date": "2021-01-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG276",
+        "title": "Aufruhr am Sankt-Scholastika-Tag",
+        "release_date": "2021-01-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG275",
+        "title": "Victor Lustig – Der Mann, der den Eiffelturm verkaufte",
+        "release_date": "2020-12-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG274",
+        "title": "Das Petzvalobjektiv",
+        "release_date": "2020-12-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG273",
+        "title": "Der Alchemist und Goldmacher Franz Tausend",
+        "release_date": "2020-12-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG272",
+        "title": "Am Ende der Welt - Napoleons letzte Jahre im Exil",
+        "release_date": "2020-12-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG271",
+        "title": "Caroline Neuber und der Hanswurststreit",
+        "release_date": "2020-12-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG270",
+        "title": "Eine thüringische Katastrophe",
+        "release_date": "2020-11-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG269",
+        "title": "Monika Ertl und ein Mord im Generalkonsulat",
+        "release_date": "2020-11-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG268",
+        "title": "Die Gebrüder Kellogg und die Erfindung des Frühstücks",
+        "release_date": "2020-11-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG267",
+        "title": "Die Leichensynode von 897",
+        "release_date": "2020-11-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG266",
+        "title": "Die Schlacht von Azincourt",
+        "release_date": "2020-10-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG265",
+        "title": "Syphilis und die Tuskegee-Syphilis-Studie",
+        "release_date": "2020-10-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG264",
+        "title": "Seondeok, erste Königin Koreas",
+        "release_date": "2020-10-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG263",
+        "title": "Lavoisier und die Entdeckung des Sauerstoffs",
+        "release_date": "2020-10-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG262",
+        "title": "Die Strawhat Riots",
+        "release_date": "2020-09-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG261",
+        "title": "Adam Worth, der Napoleon des Verbrechens",
+        "release_date": "2020-09-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG260",
+        "title": "Der Rattenfänger von Hameln",
+        "release_date": "2020-09-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG259",
+        "title": "Operation Mincemeat – Eine Geheimdienstaktion während des Zweiten Weltkriegs",
+        "release_date": "2020-09-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG258",
+        "title": "Der Andrews Raid - Eine Lokomotive auf Abwegen",
+        "release_date": "2020-09-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG257",
+        "title": "Alexander von Humboldt – Bugtales.FM Crossover",
+        "release_date": "2020-08-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG256",
+        "title": "Der Rütlischwur und die Anfänge der Schweizerischen Eidgenossenschaft",
+        "release_date": "2020-08-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG255",
+        "title": "Die 47 Ronin",
+        "release_date": "2020-08-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG254",
+        "title": "Eine kurze Geschichte des Kautschuks",
+        "release_date": "2020-08-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG253",
+        "title": "Martin Frobisher und die Steine",
+        "release_date": "2020-07-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG252",
+        "title": "Harvard Computers – Wie Astronominnen die Sterne neu sortierten",
+        "release_date": "2020-07-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG251",
+        "title": "Der Schachtürke",
+        "release_date": "2020-07-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG250",
+        "title": "Eine kurze Geschichte der Bluttransfusion",
+        "release_date": "2020-07-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG249",
+        "title": "Das Malireich und die Pilgerreise des vielleicht reichsten Mannes der Geschichte",
+        "release_date": "2020-07-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG248",
+        "title": "Der Venustransit von 1761/69 und das erste wissenschaftliche Großprojekt",
+        "release_date": "2020-06-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG247",
+        "title": "Der Emu Krieg von 1932",
+        "release_date": "2020-06-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG246",
+        "title": "John Law und die Mississippi-Blase",
+        "release_date": "2020-06-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG245",
+        "title": "Operation Paul Bunyan",
+        "release_date": "2020-06-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG244",
+        "title": "Die Mühle von Auriol und warum ihre Zerstörung eine Besetzung Frankreichs verhindert hat",
+        "release_date": "2020-05-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG243",
+        "title": "Aeneas Coffey und eine kleine Geschichte des irischen Whiskeys",
+        "release_date": "2020-05-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG242",
+        "title": "Eine kurze Geschichte der Olympischen Spiele (der Neuzeit)",
+        "release_date": "2020-05-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG241",
+        "title": "General Königsmarck und der größte Kunstraub aller Zeiten",
+        "release_date": "2020-05-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG240",
+        "title": "René Blondlot und die Entdeckung der N-Strahlen",
+        "release_date": "2020-04-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG239",
+        "title": "Die Zabern-Affäre",
+        "release_date": "2020-04-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG238",
+        "title": "Kurze Geschichten ausgestorbener Berufe",
+        "release_date": "2020-04-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG237",
+        "title": "Friedrich Anton Mesmer und der Animalische Magnetismus",
+        "release_date": "2020-04-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG236",
+        "title": "Monopoly – Die Geschichte eines Brettspiels",
+        "release_date": "2020-04-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG235",
+        "title": "Die Quarzkrise",
+        "release_date": "2020-03-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG234",
+        "title": "Das bekannteste Parfüm der Welt und seine russische Vorgeschichte",
+        "release_date": "2020-03-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG233",
+        "title": "Norton I., Kaiser der USA",
+        "release_date": "2020-03-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG232",
+        "title": "Ein Mordfall und das umfangreichste Wörterbuch der englischen Sprache",
+        "release_date": "2020-03-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG231",
+        "title": "Die Große Enttäuschung von 1844",
+        "release_date": "2020-02-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG230",
+        "title": "Die Tendaguru-Expedition und das größte Dinosaurierskelett der Welt",
+        "release_date": "2020-02-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG229",
+        "title": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+        "release_date": "2020-02-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG228",
+        "title": "Berliner Blau – die Erfindung einer Farbe",
+        "release_date": "2020-02-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG227",
+        "title": "Die unsterbliche Henrietta Lacks",
+        "release_date": "2020-01-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG226",
+        "title": "Der Untergang der Batavia",
+        "release_date": "2020-01-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG225",
+        "title": "Die Rundfahrt der Schlachtfelder",
+        "release_date": "2020-01-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG224",
+        "title": "Die Balmis-Expedition und eine kurze Geschichte der Pockenimpfung",
+        "release_date": "2020-01-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG223",
+        "title": "Ramen und die Transformation Japans",
+        "release_date": "2020-01-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG222",
+        "title": "Das Voynich-Manuskript",
+        "release_date": "2019-12-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG221",
+        "title": "Hans Staden - ein Landsknecht bei den Menschenfressern",
+        "release_date": "2019-12-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG220",
+        "title": "Eine kurze Geschichte der Rohrpost",
+        "release_date": "2019-12-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG219",
+        "title": "Die Kotze-Affäre",
+        "release_date": "2019-12-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG218",
+        "title": "Die Pazzi-Verschwörung und der Aufstieg der Medici",
+        "release_date": "2019-11-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG217",
+        "title": "Wie Joseph Haydn den Kopf verlor",
+        "release_date": "2019-11-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG216",
+        "title": "Napoleon II. – Vom König von Rom zum Herzog von Reichstadt",
+        "release_date": "2019-11-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG215",
+        "title": "Wojtek, polnischer Soldatenbär",
+        "release_date": "2019-11-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG214",
+        "title": "Hedy Lamarr – Hollywoodstar und Erfinderin",
+        "release_date": "2019-10-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG213",
+        "title": "Tom Morris und eine kleine Geschichte des Golfsports",
+        "release_date": "2019-10-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG212",
+        "title": "Eine kleine Geschichte der Sternbilder",
+        "release_date": "2019-10-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG211",
+        "title": "Griechisches Feuer",
+        "release_date": "2019-10-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG210",
+        "title": "Der Kunstfälscher Han van Meegeren",
+        "release_date": "2019-10-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG209",
+        "title": "Cyriacus und die Erfindung der Archäologie",
+        "release_date": "2019-09-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG208",
+        "title": "Die kleinste Liga der Welt – Eishockey in der DDR",
+        "release_date": "2019-09-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG207",
+        "title": "William Stewart Halsted und die Chirurgie des 19. Jahrhunderts",
+        "release_date": "2019-09-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG206",
+        "title": "Von Verliesen & Drachen - ein 3W6 Crossover",
+        "release_date": "2019-09-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG205",
+        "title": "Die Befreiung von Schloss Itter",
+        "release_date": "2019-08-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG204",
+        "title": "Obaysch - das viktorianische Nilpferd",
+        "release_date": "2019-08-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG203",
+        "title": "Bleiben oder gehen? Die Option in Südtirol 1939",
+        "release_date": "2019-08-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG202",
+        "title": "Über Brunzdoktoren und Uroskopie – die Harnschau in der vormodernen Medizin",
+        "release_date": "2019-08-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG201",
+        "title": "Eine kleine Geschichte des Speiseeises",
+        "release_date": "2019-07-31",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG200",
+        "title": "Eine Abrechnung",
+        "release_date": "2019-07-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG199",
+        "title": "UC 71 und der U-Boot-Krieg im Ersten Weltkrieg",
+        "release_date": "2019-07-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG198",
+        "title": "Olga von Kiew oder Mit den Spatzen kam der Tod",
+        "release_date": "2019-07-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG197",
+        "title": "Das kurzlebige Königreich Finnland – und ein deutscher Adliger auf dem Thron",
+        "release_date": "2019-07-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG196",
+        "title": "Wie der Panamakanal entstand",
+        "release_date": "2019-06-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG195",
+        "title": "Wie Gerta Stern auf der Flucht nach Panama ihren Mann aus dem KZ befreite",
+        "release_date": "2019-06-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG194",
+        "title": "Die Natchez und der französische Kolonialismus in Nordamerika",
+        "release_date": "2019-06-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG193",
+        "title": "Kanton Übrig – Wie Vorarlberg 1919 nicht der Schweiz beitrat",
+        "release_date": "2019-06-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG192",
+        "title": "Tiere vor Gericht",
+        "release_date": "2019-05-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG191",
+        "title": "Aethelfled - Warrior Queen of Mercia",
+        "release_date": "2019-05-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG190",
+        "title": "Die Assassinen",
+        "release_date": "2019-05-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG189",
+        "title": "Die Schlacht bei Cannae",
+        "release_date": "2019-05-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG188",
+        "title": "Martin Couney und die Inkubator-Ausstellungen",
+        "release_date": "2019-05-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG187",
+        "title": "Die Wiener Weltausstellung von 1873",
+        "release_date": "2019-04-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG186",
+        "title": "Die Redlichen Pioniere von Rochdale und eine kurze Geschichte der Genossenschaften",
+        "release_date": "2019-04-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG185",
+        "title": "Kleindeutschland und die General Slocum Katastrophe",
+        "release_date": "2019-04-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG184",
+        "title": "Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit",
+        "release_date": "2019-04-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG183",
+        "title": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
+        "release_date": "2019-03-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG182",
+        "title": "Der Zündholzkönig Ivar Kreuger",
+        "release_date": "2019-03-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG181",
+        "title": "Von Gulasch, Pörkölt und Nationalgerichten",
+        "release_date": "2019-03-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG180",
+        "title": "Die Gelbe Flotte – ein Schiffskonvoi zwischen den Fronten",
+        "release_date": "2019-03-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG179",
+        "title": "Maria Sibylla Merian – Naturforscherin und Künstlerin",
+        "release_date": "2019-02-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG178",
+        "title": "Der Klosterskandal von Sant’Ambrogio",
+        "release_date": "2019-02-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG177",
+        "title": "Robert Fortune, Botaniker und Teespion",
+        "release_date": "2019-02-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG176",
+        "title": "Die Anfänge des Anarchismus und was Uhrmacher in der Schweiz damit zu tun haben",
+        "release_date": "2019-02-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG175",
+        "title": "C.W. Field und das erste Kabel durch den Atlantik",
+        "release_date": "2019-01-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG174",
+        "title": "Harriet Tubman und die Underground Railroad",
+        "release_date": "2019-01-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG173",
+        "title": "Der gefährliche Garten von Vaux-le-Vicomte",
+        "release_date": "2019-01-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG172",
+        "title": "Eine kurze Geschichte der Armut in der Frühen Neuzeit",
+        "release_date": "2019-01-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG171",
+        "title": "Eine ganz kleine Geschichte der Nacht und des Schlafs",
+        "release_date": "2019-01-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG170",
+        "title": "Auf Schatzsuche",
+        "release_date": "2018-12-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG169",
+        "title": "Maos Großer Sprung und die chinesische Hungersnot von 1958–62",
+        "release_date": "2018-12-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG168",
+        "title": "Carl Laemmle und die Anfänge Hollywoods",
+        "release_date": "2018-12-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG167",
+        "title": "Mary Toft und die Hasen",
+        "release_date": "2018-12-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG166",
+        "title": "Siegmund Bosel – die wechselvolle Geschichte eines Inflationskönigs",
+        "release_date": "2018-11-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG165",
+        "title": "Pius IX. und die kurzlebige Römische Republik von 1849",
+        "release_date": "2018-11-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG164",
+        "title": "Eine kurze Geschichte des Alkoholkonsums",
+        "release_date": "2018-11-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG163",
+        "title": "Vernepator Cur - der Hund im Hamsterrad",
+        "release_date": "2018-11-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG162",
+        "title": "Novemberrevolution und die mehrfache Ausrufung der Republik",
+        "release_date": "2018-10-31",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG161",
+        "title": "Steamboat Arabia oder Der Schatz im Maisfeld",
+        "release_date": "2018-10-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG160",
+        "title": "Barbareskenstaaten und die europäischen Seemächte",
+        "release_date": "2018-10-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG159",
+        "title": "Thorsten Logge über Geschichte und Public History",
+        "release_date": "2018-10-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG158",
+        "title": "Al-Biruni und die erste Globalgeschichte",
+        "release_date": "2018-10-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG157",
+        "title": "Salpeter – Aufstieg und Fall einer chemischen Verbindung",
+        "release_date": "2018-09-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG156",
+        "title": "Charles Lindbergh, Alexis Carrel und die Mensch-Maschine",
+        "release_date": "2018-09-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG155",
+        "title": "Trofim Lyssenko und der Lyssenkoismus in der Sowjetunion",
+        "release_date": "2018-09-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG154",
+        "title": "La Maupin, die duellierende Opernsängerin",
+        "release_date": "2018-09-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG153",
+        "title": "Wien-Tour mit Thomas Harbich (#WienFakt)",
+        "release_date": "2018-08-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG152",
+        "title": "Ernest Shackleton und die Endurance-Expedition",
+        "release_date": "2018-08-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG151",
+        "title": "Manjirō, der erste Japaner in Amerika",
+        "release_date": "2018-08-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG150",
+        "title": "Die Geschichte des Filmstudios Bendestorf",
+        "release_date": "2018-08-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG149",
+        "title": "Die Kabeljaukriege",
+        "release_date": "2018-08-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG148",
+        "title": "Das Ende der Welt – Friedenskaiser und falsche Friedriche",
+        "release_date": "2018-07-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG147",
+        "title": "Das Fräulein vom Amt",
+        "release_date": "2018-07-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG146",
+        "title": "Tripel-Allianz-Krieg",
+        "release_date": "2018-07-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG145",
+        "title": "Barbara von Cilli oder Wie eine 100 mal wiederholte Lüge zur Wahrheit wird",
+        "release_date": "2018-07-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG144",
+        "title": "Die Spanische Grippe",
+        "release_date": "2018-06-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG143",
+        "title": "Über Marsmenschen, Massenpanik und die Entstehung eines Mythos",
+        "release_date": "2018-06-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG142",
+        "title": "Bertha Pappenheim – Gründerin des Jüdischen Frauenbundes und Sozialpionierin",
+        "release_date": "2018-06-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG141",
+        "title": "Die kurze Geschichte des Kokovorismus",
+        "release_date": "2018-06-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG140",
+        "title": "Eisbrecher für die Diplomatie – das Fußball-Länderspiel Sowjetunion gegen die BRD 1955",
+        "release_date": "2018-05-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG139",
+        "title": "Als Voltaire die Lotterie knackte und steinreich wurde",
+        "release_date": "2018-05-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG138",
+        "title": "Askari und die Kolonialgeschichte des Deutschen Reichs",
+        "release_date": "2018-05-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG137",
+        "title": "Die Französisch-Britische Union",
+        "release_date": "2018-05-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG136",
+        "title": "Der Jüdische Friedhof Währing",
+        "release_date": "2018-05-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG135",
+        "title": "Adolf Loos",
+        "release_date": "2018-04-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG134",
+        "title": "Eine kleine Geschichte des Kaiserschnitts anhand der Personen Jacob Nufer, James Barry und Margret Ann Bulkley",
+        "release_date": "2018-04-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG133",
+        "title": "Alexios Komnenos und der Erste Kreuzzug",
+        "release_date": "2018-04-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG132",
+        "title": "Gesche Gottfried, der Engel von Bremen",
+        "release_date": "2018-04-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG131",
+        "title": "Strathclyde – ein (fast) vergessenes Königreich",
+        "release_date": "2018-03-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG130",
+        "title": "Alexander von Abonuteichos oder Wie ein Kult entsteht",
+        "release_date": "2018-03-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG129",
+        "title": "Die Entdeckung der Dinosaurier",
+        "release_date": "2018-03-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG128",
+        "title": "Crash at Crush",
+        "release_date": "2018-03-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG127",
+        "title": "Struensee – Aufstieg und Fall eines Arztes, der (für kurze Zeit) zum dänischen Regenten wurde",
+        "release_date": "2018-02-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG126",
+        "title": "Für immer im Eis – die Franklin Expedition",
+        "release_date": "2018-02-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG125",
+        "title": "Republik Fredonia",
+        "release_date": "2018-02-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG124",
+        "title": "Eine kleine Geschichte des Chinese Restaurant Syndroms",
+        "release_date": "2018-02-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG123",
+        "title": "Christian Gottlieb Prieber – Aussteiger, Renegade und beinahe vergessener Utopist",
+        "release_date": "2018-01-31",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG122",
+        "title": "Die Belagerung von Masada",
+        "release_date": "2018-01-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG121",
+        "title": "Leopardenmorde und Leopardenmenschen",
+        "release_date": "2018-01-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG120",
+        "title": "Die Rückkehr des Martin Guerre",
+        "release_date": "2018-01-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG119",
+        "title": "Die NS-Thingbewegung – Thingstätten und Thingspiele",
+        "release_date": "2018-01-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG118",
+        "title": "Ein Werwolf in Livland",
+        "release_date": "2017-12-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG117",
+        "title": "Tunix, Tuwat und die Entstehung des Chaos Computer Clubs",
+        "release_date": "2017-12-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG116",
+        "title": "Über Basken, Wale und ein Massaker auf Island",
+        "release_date": "2017-12-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG115",
+        "title": "Eine kurze Geschichte der Hanse",
+        "release_date": "2017-12-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG114",
+        "title": "Gerhard Zucker und sein Raketentraum",
+        "release_date": "2017-11-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG113",
+        "title": "Die Hep-Hep-Unruhen von 1819",
+        "release_date": "2017-11-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG112",
+        "title": "Adele Spitzeder und die „Dachauer Bank“",
+        "release_date": "2017-11-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG111",
+        "title": "Die Anfänge des Esperanto",
+        "release_date": "2017-11-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG110",
+        "title": "110, 112, 999, etc.",
+        "release_date": "2017-11-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG109",
+        "title": "Der Lotterieaufstand in Albanien",
+        "release_date": "2017-10-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG108",
+        "title": "Der Paderborner Kaffeelärm",
+        "release_date": "2017-10-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG107",
+        "title": "Eine kurze Geschichte der Guillotine",
+        "release_date": "2017-10-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG106",
+        "title": "Das Darién-Projekt und seine Folgen",
+        "release_date": "2017-10-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG105",
+        "title": "Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens",
+        "release_date": "2017-09-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG104",
+        "title": "Crécy - Chronik eines Versagens",
+        "release_date": "2017-09-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG103",
+        "title": "Demoskopie – eine kurze Geschichte der (politischen) Meinungsforschung",
+        "release_date": "2017-09-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG102",
+        "title": "Ein Picknick, das die Welt verändert",
+        "release_date": "2017-09-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG101",
+        "title": "Leon Theremin – Was die Anfänge der elektronischen Musik mit Überwachungstechniken zu tun haben",
+        "release_date": "2017-08-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG100",
+        "title": "Der Fall der „Mignonette“ und seine Folgen",
+        "release_date": "2017-08-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG99",
+        "title": "Ignaz Semmelweis und die Bekämpfung des Kindbettfiebers",
+        "release_date": "2017-08-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG98",
+        "title": "Über Schoßhunde und gierige Affen",
+        "release_date": "2017-08-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG97",
+        "title": "Neutral-Moresnet – Ein Niemandsland mitten in Europa",
+        "release_date": "2017-08-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG96",
+        "title": "Von der Entstehung des Croissants und anderen kulinarischen Mythen",
+        "release_date": "2017-07-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG95",
+        "title": "Der Aufstieg des Jakob Fugger",
+        "release_date": "2017-07-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG94",
+        "title": "Wer zittert nicht vor den Mohocks?",
+        "release_date": "2017-07-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG93",
+        "title": "Das Geheimnis des Lebens – Wie es zur Entdeckung der Doppelhelix kam",
+        "release_date": "2017-07-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG92",
+        "title": "Die Geschichte der Typhoid Mary",
+        "release_date": "2017-06-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG91",
+        "title": "Jan van Eyck – Der König unter den Malern und die Erfindung des Gemäldes",
+        "release_date": "2017-06-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG90",
+        "title": "Aufstieg und Fall des Roger Casement",
+        "release_date": "2017-06-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG89",
+        "title": "Seelenkonskription – die Anfänge der modernen Volkszählungen",
+        "release_date": "2017-06-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG88",
+        "title": "Von der Tanzwut und ihrer (wahrscheinlichen) Ursache",
+        "release_date": "2017-05-31",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG87",
+        "title": "Die Einführung von Freigeld und das Wunder von Wörgl",
+        "release_date": "2017-05-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG86",
+        "title": "Sabbatai Zwi – Der falsche Messias",
+        "release_date": "2017-05-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG85",
+        "title": "Ein Arm, ein Hai, ein Kriminalfall",
+        "release_date": "2017-05-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG84",
+        "title": "Eine kleine Geschichte des Klimas und des Klimawandels",
+        "release_date": "2017-05-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG83",
+        "title": "100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege",
+        "release_date": "2017-04-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG82",
+        "title": "Victor Gruen und die Erfindung des Einkaufszentrums",
+        "release_date": "2017-04-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG81",
+        "title": "Eine kurze Geschichte des Essbestecks (aber ohne Löffel)",
+        "release_date": "2017-04-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG80",
+        "title": "Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden",
+        "release_date": "2017-04-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG79",
+        "title": "Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda",
+        "release_date": "2017-03-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG78",
+        "title": "Eine kurze Geschichte der Sommerzeit",
+        "release_date": "2017-03-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG77",
+        "title": "Der Augsburger Kalenderstreit: Folgen eines tatsächlichen Zeitsprungs",
+        "release_date": "2017-03-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG76",
+        "title": "Holdouts – Japans vergessene Soldaten",
+        "release_date": "2017-03-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG75",
+        "title": "Sobhuza II., König von Swaziland",
+        "release_date": "2017-03-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG74",
+        "title": "Die Bonnot-Bande und die Erfindung des Fluchtautos",
+        "release_date": "2017-02-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG73",
+        "title": "Ludwig XIV. und seine pikante Operation",
+        "release_date": "2017-02-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG72",
+        "title": "Phantominseln",
+        "release_date": "2017-02-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG71",
+        "title": "Wie die Kartoffel nach Europa kam (und alles veränderte)",
+        "release_date": "2017-02-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG70",
+        "title": "Die Würzburger Lügensteine",
+        "release_date": "2017-01-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG69",
+        "title": "Die Boston Melasse Katastrophe",
+        "release_date": "2017-01-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG68",
+        "title": "Eine ganz kleine Geschichte der Mikroskopie",
+        "release_date": "2017-01-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG67",
+        "title": "Palladio, der erfolgreichste Architekt aller Zeiten",
+        "release_date": "2017-01-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG66",
+        "title": "Der Aufstieg Hamburgs – Fake it 'til you make it",
+        "release_date": "2016-12-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG65",
+        "title": "Die Erfindung des diamantenen Verlobungsrings",
+        "release_date": "2016-12-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG64",
+        "title": "Paul Dirac und die Schönheit der Mathematik",
+        "release_date": "2016-12-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG63",
+        "title": "Konstantin und die Janitscharen",
+        "release_date": "2016-12-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG62",
+        "title": "Eine kurze Geschichte der Rollschuhe und des Rollschuhfahrens",
+        "release_date": "2016-11-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG61",
+        "title": "Die niederländische \"Tulpenmanie\" (und warum sie gar nicht so schlimm war)",
+        "release_date": "2016-11-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG60",
+        "title": "Wie das Essengehen erfunden wurde",
+        "release_date": "2016-11-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG59",
+        "title": "The Lost Colony",
+        "release_date": "2016-11-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG58",
+        "title": "Londoner Kutschenstreit",
+        "release_date": "2016-11-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG57",
+        "title": "Von Grabtüchern, Knochen und wieder mal Venedig",
+        "release_date": "2016-10-26",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG56",
+        "title": "Piggly Wiggly und die Geschichte des Supermarkts",
+        "release_date": "2016-10-19",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG55",
+        "title": "Der letzte Kammerdiener des alten Kaisers",
+        "release_date": "2016-10-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG54",
+        "title": "Die erste Rektorin einer deutschen Universität",
+        "release_date": "2016-10-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG53",
+        "title": "Ein Verrat und ein langer Strich auf der Berliner Mauer",
+        "release_date": "2016-09-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG52",
+        "title": "Die Geschichte der Annie Londonderry, \"New Woman\" und Fahrradweltreisende",
+        "release_date": "2016-09-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG51",
+        "title": "Eine kurze Geschichte der Rhythmologie und der Erforschung des Herzens",
+        "release_date": "2016-09-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG50",
+        "title": "Ossian, ein altgälisches Epos wie keines davor",
+        "release_date": "2016-09-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG49",
+        "title": "Der »Dig Tree« und die erste Durchquerung Australiens",
+        "release_date": "2016-08-31",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG48",
+        "title": "George Ansons katastrophale Expedition – und ihre Folgen",
+        "release_date": "2016-08-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG47",
+        "title": "Die Schwabenkinder und ihre Geschichte",
+        "release_date": "2016-08-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG46",
+        "title": "Aufstieg und Fall der Republik Ragusa",
+        "release_date": "2016-08-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG45",
+        "title": "Zwentendorf – Das sicherste Kernkraftwerk der Welt",
+        "release_date": "2016-08-02",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG44",
+        "title": "Eine kurze Geschichte der Süßigkeiten",
+        "release_date": "2016-07-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG43",
+        "title": "Josef Eisemann, Seiltänzer in Wien",
+        "release_date": "2016-07-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG42",
+        "title": "The City of Roses – Ein Rosengarten für Portland",
+        "release_date": "2016-07-12",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG41",
+        "title": "Der Wiener Kreis und die Ermordung von Moritz Schlick",
+        "release_date": "2016-07-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG40",
+        "title": "Über den Ursprung der Seidenstraße",
+        "release_date": "2016-06-27",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG39",
+        "title": "Die Legion Erzengel Michael und Corneliu Codreanu",
+        "release_date": "2016-06-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG38",
+        "title": "Eine kurze Geschichte der Leibeigenschaft",
+        "release_date": "2016-06-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG37",
+        "title": "Eine Reise um die Welt",
+        "release_date": "2016-06-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG36",
+        "title": "Eine sehr kurze Geschichte des Deodorants",
+        "release_date": "2016-05-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG35",
+        "title": "Magia Posthuma – Vampirismus in Zeiten der Aufklärung",
+        "release_date": "2016-05-23",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG34",
+        "title": "Tee, Silber und Rauschmittel",
+        "release_date": "2016-05-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG33",
+        "title": "Curta – eine Rechenmaschine und ihre Geschichte",
+        "release_date": "2016-05-09",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG32",
+        "title": "Henry Gunther",
+        "release_date": "2016-05-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG31",
+        "title": "Blitzkrieg im Fußballstadion",
+        "release_date": "2016-04-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG30",
+        "title": "Wie die Zeit zu unserer Zeit wurde",
+        "release_date": "2016-04-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG29",
+        "title": "Ein Müller in den Fängen der Inquisition",
+        "release_date": "2016-04-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG28",
+        "title": "Von Appenzellern, Bregenzern und einer Frau namens Guta",
+        "release_date": "2016-04-04",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG27",
+        "title": "Die Rote Zora und ihre Vorfahren",
+        "release_date": "2016-03-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG26",
+        "title": "Wie der Champagner zu seinen Bläschen kam",
+        "release_date": "2016-03-21",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG25",
+        "title": "Eine kaiserliche Bibliothek des Menschengeschlechts",
+        "release_date": "2016-03-14",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG24",
+        "title": "A French Connection, zum Scheitern verurteilt",
+        "release_date": "2016-03-07",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG23",
+        "title": "Ziemlich beste Feindschaft oder Die Anfänge der Bakteriologie",
+        "release_date": "2016-02-29",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG22",
+        "title": "Vom Goldjungen zum Staatsgefangenen",
+        "release_date": "2016-02-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG21",
+        "title": "Von der Erfindung der Einbauküche",
+        "release_date": "2016-02-15",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG20",
+        "title": "Von Drachenknochen und Schildkrötenorakeln",
+        "release_date": "2016-02-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG19",
+        "title": "Wenn ein Wissenschaftler an Drachen glaubt",
+        "release_date": "2016-02-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG18",
+        "title": "Wie Russland den Bart verlor",
+        "release_date": "2016-01-24",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG17",
+        "title": "Eine Urkunde, ein Zeltlager und eine Fälschung",
+        "release_date": "2016-01-17",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG16",
+        "title": "Ton, Steine, Scherben oder wie Rom sich einen achten Hügel baute",
+        "release_date": "2016-01-10",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG15",
+        "title": "Das Mailüfterl",
+        "release_date": "2016-01-03",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG14",
+        "title": "Ein englisches Atlantis",
+        "release_date": "2015-12-28",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG13",
+        "title": "Ein Spionagefall erschüttert die Habsburger Monarchie",
+        "release_date": "2015-12-20",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG12",
+        "title": "Ein Kaiser, ein Gott, viele Todesfälle",
+        "release_date": "2015-12-13",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG11",
+        "title": "Von Kindern und Kegeln",
+        "release_date": "2015-12-06",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG10",
+        "title": "Craigslist in der Frühen Neuzeit",
+        "release_date": "2015-11-30",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG09",
+        "title": "Wer den englischen Parlamentsbrand auf dem Kerbholz hat",
+        "release_date": "2015-11-22",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG08",
+        "title": "Herr der Fliegen",
+        "release_date": "2015-11-16",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG07",
+        "title": "Geteilte Habsburger",
+        "release_date": "2015-11-08",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG06",
+        "title": "Ada und die Pferdewetten",
+        "release_date": "2015-11-01",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG05",
+        "title": "Lernen Sie Geschichte!",
+        "release_date": "2015-10-25",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG04",
+        "title": "Wellingtons Rache, oder: Ein Bein für ein Königreich",
+        "release_date": "2015-10-18",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG03",
+        "title": "Fitness-Parcours für den Pharao",
+        "release_date": "2015-10-11",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG02",
+        "title": "Tatortschau mit Wiedererkennungswert",
+        "release_date": "2015-10-05",
+        "referenced_episodes": []
+    },
+    {
+        "id": "GAG01",
+        "title": "Vier Langobarden-Könige und ein Trinkbecher",
+        "release_date": "2015-10-01",
+        "referenced_episodes": []
+    }
+]
