@@ -1,5 +1,5 @@
 import requests
-import xml.etree.ElementTree as ET
+from xml.etree.ElementTree import fromstring
 from dateutil.parser import *
 from typing import TypedDict, List
 import json
@@ -38,7 +38,7 @@ def rss_item_to_dict(item):
 
 
 def parse_rss_to_dict(rss):
-    root = ET.fromstring(rss)
+    root = fromstring(rss)
     items = root.findall('./channel/item')
     return [rss_item_to_dict(i) for i in items]
 
