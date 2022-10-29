@@ -1,10 +1,18 @@
 import requests
 import xml.etree.ElementTree as ET
 from dateutil.parser import *
+from typing import TypedDict, List
 
 
 RSS_URL = 'https://www.geschichte.fm/feed/mp3/'
 REFERENCES_FILE = '../data/references.toml'
+
+
+class Episode(TypedDict):
+    id: str
+    title: str
+    release_date: str
+    referenced_episodes: List[str]
 
 
 def load_rss():
@@ -18,13 +26,12 @@ def rss_item_to_dict(item):
     (episode_id, episode_title) = title.text.split(":", 1)
     release_date_str = item.find('pubDate').text
     release_date = parse(release_date_str).strftime('%Y-%m-%d')
-    return {
-        'id': episode_id,
-        'title': episode_title.strip(),
-        'release_date': release_date,
-        'related_episodes': [],
-        'years': []
-    }
+    return Episode(
+        id=episode_id,
+        title=episode_title.strip(),
+        release_date=release_date,
+        referenced_episodes=[]
+    )
 
 
 def parse_rss_to_dict(rss):
